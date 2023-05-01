@@ -2,7 +2,7 @@
 /**
  * Write a description of class DamianDemo here.
  *
- * @author (your name)
+ * @author Damian
  * @version (a version number or a date)
  */
 public class DamianDemo
